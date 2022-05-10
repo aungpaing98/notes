@@ -1,0 +1,17 @@
+## Content
+- Paper preview
+	- Main contribution
+	- Model architecture, weight files (available or not)
+	- Model performance (claimed and verified)
+- Custom Dataset
+	- Licences, Staticstic
+- Fine-tuned Details
+	- Environment details (requirements.txt)
+	- Model version (input output size)
+	- Training time.
+	- Bugs and isses when training
+	- Custom script
+	- Hyper-parameters tunning
+- Fine-tunned Result
+	- validation dataset
+	- evaluation dataset
